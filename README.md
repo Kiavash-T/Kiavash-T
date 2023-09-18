@@ -17,8 +17,8 @@
 <h1 style= font-weight:200 ><strong>•My Github States:</strong></h1>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kiavash-T&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiavash-T&layout=donut)
+
 <h1 style= font-weight:200 ><strong>•Top Repositories:</strong></h1>
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kiavash-T&repo=Typing-Speedometer)
