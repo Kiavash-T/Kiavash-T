@@ -16,8 +16,7 @@
 
 <h1 style= font-weight:200 ><strong>•My Github States:</strong></h1>
 
-<img src= "https://github-readme-stats.vercel.app/api?username=Kiavash-T&show_icons=true&theme=radical" style=" width:400px; height:190px;" ></img>
-<img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Kiavash-T&layout=compact&theme=radical" style=" width:441px; height:191px;" ></img>
+<img src= "https://github-readme-stats.vercel.app/api?username=Kiavash-T&show_icons=true&theme=radical" style=" width:400px; height:190px;" ></img><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Kiavash-T&layout=compact&theme=radical" style=" width:441px; height:191px;" ></img>
 
 
 <h1 style= font-weight:200 ><strong>•Top Repositories:</strong></h1>
