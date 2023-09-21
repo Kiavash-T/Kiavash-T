@@ -20,7 +20,7 @@
 
 
 <h1 style= font-weight:200 ><strong>•Top Repositories:</strong></h1>
+<a href="https://github.com/Kiavash-T/Typing-Speedometer"><img src= "https://github-readme-stats.vercel.app/api/pin/?username=Kiavash-T&repo=Typing-Speedometer" style=" width:441px; height:191px;" ></img>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kiavash-T&repo=Typing-Speedometer)
 
 
