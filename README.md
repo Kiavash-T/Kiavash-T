@@ -1,9 +1,6 @@
 
 
-<img src= "https://github.com/Kiavash-T/Kiavash-T/assets/143013990/e7a8906b-1f9e-40d0-ad9c-aba59274dd64" style= text-align:center; ></img>
-
-<img src= "https://github.com/Kiavash-T/Kiavash-T/assets/143013990/579a3741-f1a8-4fce-8aaf-339ad3a7a604" align=center></img>
-<hr>
+<im
 <h1 style= font-weight:200 ><strong>•My Skills:</strong></h1>
 <img src= "https://github.com/Kiavash-T/Kiavash-T/assets/143013990/e920e129-47e9-4096-b936-77fc93e42a67" title="Python" style="width:80px; height:80px; display:flex; justify-content:center" ></img>
 <img src= "https://github.com/Kiavash-T/Kiavash-T/assets/143013990/f010b56e-0d21-4e5b-8f57-76cd940539d6" title="C++" style=" width:80px; height:80px; display:flex; justify-content:center" ></img>
