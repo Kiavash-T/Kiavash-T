@@ -1,6 +1,5 @@
 
 
-<im
 <h1 style= font-weight:200 ><strong>•My Skills:</strong></h1>
 <img src= "https://github.com/Kiavash-T/Kiavash-T/assets/143013990/e920e129-47e9-4096-b936-77fc93e42a67" title="Python" style="width:80px; height:80px; display:flex; justify-content:center" ></img>
 <img src= "https://github.com/Kiavash-T/Kiavash-T/assets/143013990/f010b56e-0d21-4e5b-8f57-76cd940539d6" title="C++" style=" width:80px; height:80px; display:flex; justify-content:center" ></img>
